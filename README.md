@@ -2,7 +2,7 @@
 
 > A corporate landing page for Agroton, one of the largest agricultural producers in Ukraine. Built as a portfolio piece showcasing semantic HTML, accessible UI, and performance-tuned static-site practices.
 
-**Live demo:** _(deploy URL — replace before sharing)_
+**Live demo:** https://staskaidash.github.io/Agroton/
 
 | Desktop | Mobile |
 |---------|--------|

@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://agroton.example.com/</loc>
+        <loc>https://staskaidash.github.io/Agroton/</loc>
         <lastmod>2026-06-11</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://agroton.example.com/#about</loc>
+        <loc>https://staskaidash.github.io/Agroton/#about</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://agroton.example.com/#products</loc>
+        <loc>https://staskaidash.github.io/Agroton/#products</loc>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://agroton.example.com/#partners</loc>
+        <loc>https://staskaidash.github.io/Agroton/#partners</loc>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://agroton.example.com/#blog</loc>
+        <loc>https://staskaidash.github.io/Agroton/#blog</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://agroton.example.com/#contact</loc>
+        <loc>https://staskaidash.github.io/Agroton/#contact</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
